@@ -1,0 +1,26 @@
+*{
+    background-color: rgb(240, 195, 220);
+}
+h1:hover{
+    color:blueviolet
+}
+h2 {
+    color:rgb(67, 19, 179);
+}
+h2{
+    font-style: inherit;
+}
+p{
+    color:maroon
+}
+button {
+    color:rgb(77, 26, 37)
+}
+a{
+    color:crimson
+}
+a{
+    font-size:larger;
+}
+a{font-style: oblique;
+}   
